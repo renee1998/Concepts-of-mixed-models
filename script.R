@@ -116,7 +116,7 @@ ggplot() +
         legend.text = element_text(size = 10),
         legend.title = element_text(size = 10, face = "bold"),
         axis.title = element_text(size = 10, face = "bold"),
-        axis.text = element_text(size = 10))                    #less vaiance within the random slopes and intercepts (+better AIC!)
+        axis.text = element_text(size = 10))                    #less variance within the random slopes and intercepts (+better AIC!)
 
 
 
